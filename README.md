@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @febuar
+- 👀 I’m interested in ... math
+- 🌱 I’m currently learning ... python and javascript
+- 💞️ I’m looking to collaborate on ... a website
+- 😄 Pronouns: ... ajt
+- ⚡ Fun fact: ... im in harvard
